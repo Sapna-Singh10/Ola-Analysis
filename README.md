@@ -1,33 +1,12 @@
-Ola Ride-Sharing Data Analysis
+##Ola Ride-Sharing Data Analysis
 This project presents a comprehensive analysis of Ola ride-sharing data, utilizing SQL for data querying, a CSV dataset for data storage, and Power BI for interactive visualizations. The goal is to extract meaningful insights into ride patterns, customer behaviors, and operational metrics to inform business decisions.
 
-Repository Contents
+##Repository Contents
 Bookings.csv: The primary dataset containing detailed information on Ola ride bookings.​
-GitHub
-+9
-GitHub
-+9
-GitHub
-+9
 
-SQL Queries:
-
+##SQL Queries:
 Average_Rating.sql: Calculates the average ratings given by customers and drivers.​
-GitHub
-+2
-GitHub
-+2
-GitHub
-+2
-
 Average_Rides.sql: Determines the average number of rides per customer.​
-GitHub
-+8
-GitHub
-+8
-GitHub
-+8
-
 Cancelled_Rides.sql: Identifies rides that were canceled, along with reasons for cancellation.​
 
 Driver_ratings.sql: Analyzes driver ratings across different ride categories.​
